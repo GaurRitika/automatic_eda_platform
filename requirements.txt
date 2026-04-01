@@ -1,0 +1,9 @@
+streamlit
+pandas
+matplotlib
+seaborn
+missingno
+wordcloud
+
+
+#__pycache__ stores compiled Python bytecode files (.pyc) to speed up execution.
