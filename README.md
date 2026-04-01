@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://img.icons8.com/nolan/256/analytics.png" alt="Auto-EDA Logo" width="120" />
-</div>
 
 <h1 align="center">🚀 AUTOMATIC EDA</h1>
 
